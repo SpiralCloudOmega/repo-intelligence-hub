@@ -1,0 +1,308 @@
+[
+  {
+    "nameWithOwner": "SpiralCloudOmega/DevTeam6",
+    "url": "https://github.com/SpiralCloudOmega/DevTeam6",
+    "isFork": false,
+    "visibility": "public",
+    "description": "AI Dev Studio",
+    "primaryLanguage": "C++",
+    "topics": [],
+    "lastUpdated": "2026-06-26T00:28:35Z",
+    "classification": [
+      "ai-ml"
+    ],
+    "priority": 5,
+    "status": "active",
+    "whyUseful": "High-signal original repository with active engineering value for AI, automation, infrastructure, or developer tooling review.",
+    "recommendedNextAction": "Create a detailed repo summary, inspect code structure, and identify reusable assets or connector candidates."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria",
+    "url": "https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria",
+    "isFork": false,
+    "visibility": "public",
+    "description": "PDF Storage",
+    "primaryLanguage": "HTML",
+    "topics": [],
+    "lastUpdated": "2026-06-21T03:22:37Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/react-postgres-fullstack-template",
+    "url": "https://github.com/SpiralCloudOmega/react-postgres-fullstack-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "JavaScript",
+    "topics": [],
+    "lastUpdated": "2026-04-06T16:12:41Z",
+    "classification": [
+      "frontend"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/gemini-mentor",
+    "url": "https://github.com/SpiralCloudOmega/gemini-mentor",
+    "isFork": false,
+    "visibility": "public",
+    "description": "Transform Gemini-CLI into a coding mentor. Features \"Mentor Mode\" for Socratic guidance, codebase navigation teaching, and pre-flight checks.",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-01-29T21:07:12Z",
+    "classification": [
+      "devtools"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/revithion-studio",
+    "url": "https://github.com/SpiralCloudOmega/revithion-studio",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "Astro",
+    "topics": [],
+    "lastUpdated": "2026-04-21T17:34:11Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/revithion",
+    "url": "https://github.com/SpiralCloudOmega/revithion",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-21T17:25:06Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/astro-blog-starter-template1",
+    "url": "https://github.com/SpiralCloudOmega/astro-blog-starter-template1",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "Astro",
+    "topics": [],
+    "lastUpdated": "2026-04-15T18:37:44Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/revithionstudio",
+    "url": "https://github.com/SpiralCloudOmega/revithionstudio",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-15T18:10:32Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/astro-blog-starter-template",
+    "url": "https://github.com/SpiralCloudOmega/astro-blog-starter-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "Astro",
+    "topics": [],
+    "lastUpdated": "2026-04-10T20:11:33Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/workers-for-platforms-template",
+    "url": "https://github.com/SpiralCloudOmega/workers-for-platforms-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-10T19:37:36Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/vite-react-template",
+    "url": "https://github.com/SpiralCloudOmega/vite-react-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-06T16:18:26Z",
+    "classification": [
+      "frontend"
+    ],
+    "priority": 3,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/dynamic-workers-playground",
+    "url": "https://github.com/SpiralCloudOmega/dynamic-workers-playground",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-21T17:59:36Z",
+    "classification": [
+      "experiment"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/Cloudflare_Index",
+    "url": "https://github.com/SpiralCloudOmega/Cloudflare_Index",
+    "isFork": false,
+    "visibility": "public",
+    "description": "Index",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-04-07T16:10:33Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/r2-explorer-template",
+    "url": "https://github.com/SpiralCloudOmega/r2-explorer-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "TypeScript",
+    "topics": [],
+    "lastUpdated": "2026-04-07T06:22:26Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/baton",
+    "url": "https://github.com/SpiralCloudOmega/baton",
+    "isFork": false,
+    "visibility": "public",
+    "description": "An unofficial mobile client for Vibe Kanban",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-03-10T15:23:06Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/gh-mcp",
+    "url": "https://github.com/SpiralCloudOmega/gh-mcp",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-01-29T21:51:32Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/vitejs",
+    "url": "https://github.com/SpiralCloudOmega/vitejs",
+    "isFork": false,
+    "visibility": "public",
+    "description": "Created with StackBlitz \u26a1\ufe0f",
+    "primaryLanguage": "Vue",
+    "topics": [],
+    "lastUpdated": "2025-11-05T18:40:17Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 2,
+    "status": "active",
+    "whyUseful": "Potentially useful after manual review to confirm scope, quality, and relationship to adjacent repositories.",
+    "recommendedNextAction": "Queue for a lightweight manual pass and verify whether it belongs in a stronger category."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/repo-intelligence-hub",
+    "url": "https://github.com/SpiralCloudOmega/repo-intelligence-hub",
+    "isFork": false,
+    "visibility": "public",
+    "description": "repo index",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-06-26T00:36:42Z",
+    "classification": [
+      "empty-low-signal"
+    ],
+    "priority": 1,
+    "status": "empty",
+    "whyUseful": "Low current value because the repository appears empty or minimally populated.",
+    "recommendedNextAction": "Defer deep review unless it becomes relevant to a specific investigation."
+  }
+]

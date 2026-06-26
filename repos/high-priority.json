@@ -1,0 +1,70 @@
+[
+  {
+    "nameWithOwner": "SpiralCloudOmega/DevTeam6",
+    "url": "https://github.com/SpiralCloudOmega/DevTeam6",
+    "isFork": false,
+    "visibility": "public",
+    "description": "AI Dev Studio",
+    "primaryLanguage": "C++",
+    "topics": [],
+    "lastUpdated": "2026-06-26T00:28:35Z",
+    "classification": [
+      "ai-ml"
+    ],
+    "priority": 5,
+    "status": "active",
+    "whyUseful": "High-signal original repository with active engineering value for AI, automation, infrastructure, or developer tooling review.",
+    "recommendedNextAction": "Create a detailed repo summary, inspect code structure, and identify reusable assets or connector candidates."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria",
+    "url": "https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria",
+    "isFork": false,
+    "visibility": "public",
+    "description": "PDF Storage",
+    "primaryLanguage": "HTML",
+    "topics": [],
+    "lastUpdated": "2026-06-21T03:22:37Z",
+    "classification": [
+      "unknown"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/react-postgres-fullstack-template",
+    "url": "https://github.com/SpiralCloudOmega/react-postgres-fullstack-template",
+    "isFork": false,
+    "visibility": "public",
+    "description": "",
+    "primaryLanguage": "JavaScript",
+    "topics": [],
+    "lastUpdated": "2026-04-06T16:12:41Z",
+    "classification": [
+      "frontend"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  },
+  {
+    "nameWithOwner": "SpiralCloudOmega/gemini-mentor",
+    "url": "https://github.com/SpiralCloudOmega/gemini-mentor",
+    "isFork": false,
+    "visibility": "public",
+    "description": "Transform Gemini-CLI into a coding mentor. Features \"Mentor Mode\" for Socratic guidance, codebase navigation teaching, and pre-flight checks.",
+    "primaryLanguage": "",
+    "topics": [],
+    "lastUpdated": "2026-01-29T21:07:12Z",
+    "classification": [
+      "devtools"
+    ],
+    "priority": 4,
+    "status": "active",
+    "whyUseful": "Strong candidate for detailed review because it appears to contain meaningful code, docs, or reusable implementation patterns.",
+    "recommendedNextAction": "Review README and top-level files, then decide whether to promote into the top-20 connector set."
+  }
+]
