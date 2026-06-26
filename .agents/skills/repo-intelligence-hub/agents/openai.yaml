@@ -1,0 +1,6 @@
+interface:
+  display_name: "Repo Intelligence Hub"
+  short_description: "Repo-specific patterns and workflows for repo-intelligence-hub"
+  default_prompt: "Use the repo-intelligence-hub repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
